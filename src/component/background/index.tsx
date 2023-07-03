@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "./index.scss";
-import axios from "axios";
 import { useNavigate, useParams } from "react-router-dom";
 
 const Background = () => {

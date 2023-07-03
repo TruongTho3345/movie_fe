@@ -48,7 +48,7 @@ const Home = () => {
   return (
     <div className="home">
       <Background />
-      {/* <button onClick={importAuto}>import auto</button> */}
+      {/* <button onClick={importAuto}>import auto</button>  */}
 
       <div className="list-movie">
         {movies.map((movie) => {
